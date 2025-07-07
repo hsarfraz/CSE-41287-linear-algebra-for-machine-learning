@@ -39,6 +39,22 @@ Regression line (aka line of best fit)
 * Used in regression problems (not classification)
 * Used in any model where the output is numeric
 
+## week 1 discussion post
+
+* How would you describe relation between the 2 classes  of data which can be separated by single perceptron?
+
+After listening to the lectures and demos I would say that there is no relationship between 2 classes of data which can be separated by a single perceptron. The only relationship that I can think about is that the two classes/groups of data have certain features/characteristics that make the groups of data unique. 
+
+I say this because in a linear relationship the x variable is the independent variable and the y variable is the dependent variable. Based on how the points are scattered you can identify if the variables have a linear or non-linear positive/negative correlation. This relationship is illustrated through the line of best fit or regression line which is the line that illustrates how far apart the data points are from the actual and predicted y-values. 
+
+The line of separation or single perceptron line does not represent the predicted y-value points and it only acts as a line which makes a distinction of the different types of groups that exist in a dataset.
+
+To conclude, I believe regression line illustrates the relationship between two variables while the single perceptron line acts as a boundary which only indicates two separate groups of data within the dataset. 
+
+* do you have any idea for application of GPT4 "omni" neural network announced last month by OpenAI ?
+
+To me, it seems like the GPT4-o (GPT4-omni) can perform a variety of tasks related to discriminative and generative AI since it is a multimodal model which can perform a variety of tasks such as image to text conversion (discriminative AI task), text/response generation using LLMs (generative AI task), audio to text conversion (discriminative AI task), etc
+
 Perceptron line
 * The perceptron is a model that finds a separation line (or hyperplane) between classes
 * A simple binary classifier in neural networks
