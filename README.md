@@ -1,6 +1,6 @@
 # linear-algebra-for-machine-learning
 
-## week 1 Key take aways
+## week 1 Key take aways (dicriminative vs. generative AI)
 
 Dicriminative AI is when the AI has to categorise a certain input and determine which category the input belongs too. Some examples of discriminative AI are:
 * Handwriting to text conversion (the AI would need to determine which symbol the handwritten text falls under)
@@ -26,3 +26,5 @@ Both, discriminative and generative AI, **_can_** fall under deep learning. Some
 | Genetic Algorithms / Evolutionary Art which generate images or music by evolving patterns over time.  | Audio & Speech Generation: WaveNet (text-to-speech waveform generation), Tacotron 2 (text-to-speech spectrogram synthesis), VALL-E (voice cloning), Jukebox (music generation from text)  | 
 | Expert Systems with Random Variation: Some creative expert systems used rules plus randomness to generate poetry, names, or trivia — but without learning from data  | Video / Multimodal Generation: Sora (OpenAI's text-to-video), Make-A-Video (Meta), Runway Gen-2  |
 |  | Code Generation: Codex (used in GitHub Copilot), AlphaCode (from DeepMind)  |
+
+## week 1 Key take aways (separation line, line of best fit, and perceptron)
