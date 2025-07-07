@@ -61,7 +61,7 @@ To conclude, I believe regression line illustrates the relationship between two 
 
 To me, it seems like the GPT4-o (GPT4-omni) can perform a variety of tasks related to discriminative and generative AI since it is a multimodal model which can perform a variety of tasks such as image to text conversion (discriminative AI task), text/response generation using LLMs (generative AI task), audio to text conversion (discriminative AI task), etc
 
-> As others have mentioned, per the lecture, classes of data that can be separated by a single perceptron means they must be linearly separable, such that the features in the dataset are distinct. The relation between two classes of data that can be separated by a single perceptron must either (or both) relatively simplistic or so distinct that using a single-line boundary is viable to separate the data.
+> As others have mentioned, per the lecture, classes of data that can be separated by a single perceptron means they must be **_linearly separable_**, such that the features in the dataset are distinct. The relation between two classes of data that can be separated by a single perceptron must either (or both) relatively simplistic or so distinct that using a single-line boundary is viable to separate the data.
 
 I like how you (and others) in the discussion form have made this distinction. Even though, the points don't have a linear relationship (when we look at regression/the line of best fit) they are still linearly separable since the perceptron represents the decision boundary of the binary classification of the 0 and 1 groups.
 
