@@ -19,11 +19,16 @@ Both, discriminative and generative AI, **_can_** fall under deep learning.
 | Decision trees  | Whisper → audio-to-text transcription  | 
 | Random forests  |   |
 
+| Examples of discriminative models (not deep learning)  | Generative AI Models That Use Deep Learning |
+| ------------- | ------------- |
+| Logistic regression | Text Generation: GPT (Generative Pretrained Transformer), Claude, PaLM, LLaMA — other LLMs, T5, BART — for summarization, translation  |
+| Support Vector Machines (SVMs)  | Image Generation: DALL·E (text-to-image), Stable Diffusion (image generation with diffusion models), StyleGAN (faces and art), BigGAN (high-quality image generation)  |
+| Decision trees  | Audio & Speech Generation: WaveNet (text-to-speech waveform generation), Tacotron 2 (text-to-speech spectrogram synthesis), VALL-E (voice cloning), Jukebox (music generation from text)  | 
+| Random forests  | Video / Multimodal Generation: Sora (OpenAI's text-to-video), Make-A-Video (Meta), Runway Gen-2  |
+| Random forests  | Code Generation: Codex (used in GitHub Copilot), AlphaCode (from DeepMind)  |
 
-Examples of discriminative models using deep learning:
-* Convolutional Neural Networks (CNNs) → image classification
-* BERT → language classification (e.g., sentiment analysis)
-* Whisper → audio-to-text transcription
+
+
 
 Generative AI Models That Use Deep Learning
 * Text Generation: GPT (Generative Pretrained Transformer), Claude, PaLM, LLaMA — other LLMs, T5, BART — for summarization, translation
