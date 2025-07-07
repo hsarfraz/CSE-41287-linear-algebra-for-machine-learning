@@ -27,4 +27,4 @@ Both, discriminative and generative AI, **_can_** fall under deep learning. Some
 | Expert Systems with Random Variation: Some creative expert systems used rules plus randomness to generate poetry, names, or trivia — but without learning from data  | Video / Multimodal Generation: Sora (OpenAI's text-to-video), Make-A-Video (Meta), Runway Gen-2  |
 |  | Code Generation: Codex (used in GitHub Copilot), AlphaCode (from DeepMind)  |
 
-## week 1 Key take aways (separation line, line of best fit, and perceptron)
+## week 1 Key take aways (separation line, regression line, line of best fit, and perceptron)
