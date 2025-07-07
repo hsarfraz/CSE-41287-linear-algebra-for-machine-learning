@@ -12,6 +12,14 @@ Generative AI is when the AI has to produce/generate a output from the input. Ge
 
 Both, discriminative and generative AI, **_can_** fall under deep learning.
 
+| Examples of discriminative models (not deep learning)  | Examples of discriminative models using deep learning |
+| ------------- | ------------- |
+| * Logistic regression
+* Support Vector Machines (SVMs)
+* Decision trees
+* Random forests  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 Examples of discriminative models (not deep learning):
 * Logistic regression
 * Support Vector Machines (SVMs)
