@@ -38,3 +38,9 @@ Regression line (aka line of best fit)
 * A line that predicts a continuous value based on input data
 * Used in regression problems (not classification)
 * Used in any model where the output is numeric
+
+Perceptron line
+* The perceptron is a model that finds a separation line (or hyperplane) between classes
+* A simple binary classifier in neural networks
+* It uses a linear decision boundary (aka separation line) to decide which class a data point belongs to
+* The "perceptron line" = separation line in the context of a single-layer perceptron. If it is multi-layered then it becomes a complex, nonlinear decision surface that’s harder to interpret geometrically.
