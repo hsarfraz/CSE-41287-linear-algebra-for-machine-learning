@@ -39,6 +39,12 @@ Regression line (aka line of best fit)
 * Used in regression problems (not classification)
 * Used in any model where the output is numeric
 
+Perceptron line
+* The perceptron is a model that finds a separation line (or hyperplane) between classes
+* A simple binary classifier in neural networks
+* It uses a linear decision boundary (aka separation line) to decide which class a data point belongs to
+* The "perceptron line" = separation line in the context of a single-layer perceptron. If it is multi-layered then it becomes a complex, nonlinear decision surface that’s harder to interpret geometrically.
+
 ## week 1 discussion post
 
 * How would you describe relation between the 2 classes  of data which can be separated by single perceptron?
@@ -54,9 +60,3 @@ To conclude, I believe regression line illustrates the relationship between two 
 * do you have any idea for application of GPT4 "omni" neural network announced last month by OpenAI ?
 
 To me, it seems like the GPT4-o (GPT4-omni) can perform a variety of tasks related to discriminative and generative AI since it is a multimodal model which can perform a variety of tasks such as image to text conversion (discriminative AI task), text/response generation using LLMs (generative AI task), audio to text conversion (discriminative AI task), etc
-
-Perceptron line
-* The perceptron is a model that finds a separation line (or hyperplane) between classes
-* A simple binary classifier in neural networks
-* It uses a linear decision boundary (aka separation line) to decide which class a data point belongs to
-* The "perceptron line" = separation line in the context of a single-layer perceptron. If it is multi-layered then it becomes a complex, nonlinear decision surface that’s harder to interpret geometrically.
