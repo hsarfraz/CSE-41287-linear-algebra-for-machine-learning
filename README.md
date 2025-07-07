@@ -14,16 +14,11 @@ Both, discriminative and generative AI, **_can_** fall under deep learning.
 
 | Examples of discriminative models (not deep learning)  | Examples of discriminative models using deep learning |
 | ------------- | ------------- |
-| Logistic regression | Content Cell  |
-| Support Vector Machines (SVMs)  | Content Cell  |
-| Decision trees  | Content Cell  |
-| Random forests  | Content Cell  |
+| Logistic regression | Convolutional Neural Networks (CNNs) → image classification  |
+| Support Vector Machines (SVMs)  | BERT → language classification (e.g., sentiment analysis)  |
+| Decision trees  | Whisper → audio-to-text transcription  | 
+| Random forests  |   |
 
-Examples of discriminative models (not deep learning):
-* Logistic regression
-* Support Vector Machines (SVMs)
-* Decision trees
-* Random forests
 
 Examples of discriminative models using deep learning:
 * Convolutional Neural Networks (CNNs) → image classification
