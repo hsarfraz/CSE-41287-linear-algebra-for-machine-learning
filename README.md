@@ -47,7 +47,7 @@ Perceptron line
 
 ## week 1 discussion post
 
-* How would you describe relation between the 2 classes  of data which can be separated by single perceptron?
+<ins> How would you describe relation between the 2 classes  of data which can be separated by single perceptron?  </ins>
 
 After listening to the lectures and demos I would say that there is no relationship between 2 classes of data which can be separated by a single perceptron. The only relationship that I can think about is that the two classes/groups of data have certain features/characteristics that make the groups of data unique. 
 
@@ -57,6 +57,6 @@ The line of separation or single perceptron line does not represent the predicte
 
 To conclude, I believe regression line illustrates the relationship between two variables while the single perceptron line acts as a boundary which only indicates two separate groups of data within the dataset. 
 
-* do you have any idea for application of GPT4 "omni" neural network announced last month by OpenAI ?
+ <ins> do you have any idea for application of GPT4 "omni" neural network announced last month by OpenAI?  </ins>
 
 To me, it seems like the GPT4-o (GPT4-omni) can perform a variety of tasks related to discriminative and generative AI since it is a multimodal model which can perform a variety of tasks such as image to text conversion (discriminative AI task), text/response generation using LLMs (generative AI task), audio to text conversion (discriminative AI task), etc
