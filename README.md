@@ -44,6 +44,7 @@ Perceptron line
 * A simple binary classifier in neural networks
 * It uses a linear decision boundary (aka separation line) to decide which class a data point belongs to
 * The "perceptron line" = separation line in the context of a single-layer perceptron. If it is multi-layered then it becomes a complex, nonlinear decision surface that’s harder to interpret geometrically.
+* A perceptron can still be considered linearly separable in 3D or higher dimensions — as long as a linear decision boundary (called a hyperplane) can divide the classes without error. It is just that in a 3D space the perceptron will be referred to as a plane. If it is a 4D space or higher it becomes a hyperplane.
 
 ## week 1 discussion post
 
