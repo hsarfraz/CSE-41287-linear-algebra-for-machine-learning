@@ -28,3 +28,13 @@ Both, discriminative and generative AI, **_can_** fall under deep learning. Some
 |  | Code Generation: Codex (used in GitHub Copilot), AlphaCode (from DeepMind)  |
 
 ## week 1 Key take aways (separation line, regression line, line of best fit, and perceptron)
+
+separation line
+* A boundary (line, curve, or plane) that divides data into categories
+* Used in classification problems (i.e., discriminative AI)
+* Can be used in perceptrons (for simple cases)
+
+Regression line (aka line of best fit)
+* A line that predicts a continuous value based on input data
+* Used in regression problems (not classification)
+* Used in any model where the output is numeric
