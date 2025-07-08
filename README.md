@@ -9,4 +9,5 @@
 
 ## week 2 Key take aways
 
+matrix operations, vectors, scaler, diagonal matrix, transpose matrix,
 
