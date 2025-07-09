@@ -15,4 +15,6 @@
 Dot Product
 * The dot product is similar to matrix multiplication but not the same thing since the dot product is when two vectors are being multiplied. It is important to note that vectors are 1D arrays, but can also be 2D arrays if they are a column vector.
 
+The Determinant
+
 
