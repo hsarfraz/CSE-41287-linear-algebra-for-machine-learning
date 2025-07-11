@@ -6,7 +6,7 @@
 ## dot product
 * The dot product is similar to matrix multiplication but not the same thing since the dot product is when two vectors are being multiplied. It is important to note that vectors are 1D arrays, but can also be 2D arrays if they are a column vector.
 
-## The Determinant
+## The Determinant ([Illustration of determinant](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8))
 * When the derterminant of a matrix is zero that means the matrix does not have a inverse
 * When the determinant of the coefficient matrix is zero, it means that the system of linear equations does not have a unique solution, because the equations are not linearly independent. In this case, the system of linear equations could have:
     * Infinitely many solutions (if the system is consistent), or
