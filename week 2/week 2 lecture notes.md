@@ -14,6 +14,6 @@
  
   ## Week 2 Discussion post
 
-<ins> We will discuss this week the "dot-product" demo. Neural networks are "trained" and values for the weights W are determined based on training data X. Initially the values are random numbers. Deep neural networks have multiple layers of neurons. If a weight is zero that neuron does not contribute to the next layer. For a single neuron where W & X are both vectors output Y was represented as y=w'*x instead of y=x'*w. Does it really matter ? </ins>
+> We will discuss this week the "dot-product" demo. Neural networks are "trained" and values for the weights W are determined based on training data X. Initially the values are random numbers. Deep neural networks have multiple layers of neurons. If a weight is zero that neuron does not contribute to the next layer. For a single neuron where W & X are both vectors output Y was represented as y=w'*x instead of y=x'*w. Does it really matter ? 
 
-<ins> With two neurons, X is a matrix and the form was Y=X*W, why is that? </ins>
+> With two neurons, X is a matrix and the form was Y=X*W, why is that? 
