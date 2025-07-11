@@ -30,6 +30,6 @@ When a layer has two neurons then there are going to be two vectors which repres
 
 Thank you for your illustrations for the multiplication of the vectors X and W. It helps put things in perspective.
 
-I do have a question about your answer to question 2. You mention how if X and W are the same then matrix multiplication does become communicative. I don't think this is the case since wouldn't the order of the numbers change if we were to multiply X*W as W*X? (since both variables don't represent vector?
+I do have a question about your answer to question 2. You mention how if X and W are the same then matrix multiplication does become communicative. I don't think this is the case since wouldn't the order of the numbers change if we were to multiply X*W as W*X? (since both variables don't represent a vector?)
 
 The point you mentioned about how matrix multiplication becomes communicative if you have two diagonal matrices, which have zeros on the non-diagonal, is a interesting point.
