@@ -20,13 +20,13 @@ If a neural network layer only has one neuron then the order in which the input 
 
 The 1 by 1 scalar will be the y output if you were to multiply the transpose of the weights (w') with the vector x or the transpose of x (x') with the weights (w). I have illustrated this idea below with a example vector and a weight which belongs to a neuron.
 
-<img src="week 2/discussion_post1.jpg" width="700">
+<img src="linear-algebra-for-machine-learning/week 2/discussion_post1.jpg" width="700">
 
 > With two neurons, X is a matrix and the form was Y=X*W, why is that?
 
 When a layer has two neurons then there are going to be two vectors which represent the weights. In this situation the order does matter since if you were to switch up the order of the input vector and the weights the resulting y output can be a different shape. I have included a screenshot below where I go through some example values of a neural network layer with two neurons.
 
-<img src="week 2/discussion_post2.jpg" width="700">
+<img src="linear-algebra-for-machine-learning/week 2/discussion_post2.jpg" width="700">
 
 <ins> Response to comments </ins>
 
