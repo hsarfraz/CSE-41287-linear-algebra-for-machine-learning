@@ -20,7 +20,7 @@ If a neural network layer only has one neuron then the order in which the input 
 
 The 1 by 1 scalar will be the y output if you were to multiply the transpose of the weights (w') with the vector x or the transpose of x (x') with the weights (w). I have illustrated this idea below with a example vector and a weight which belongs to a neuron.
 
-<img src="`week 2`/discussion_post1.jpg" width="700">
+<img src="week%202/discussion_post1.jpg" width="700">
 
 > With two neurons, X is a matrix and the form was Y=X*W, why is that?
 
