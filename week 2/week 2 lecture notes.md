@@ -26,7 +26,7 @@ The 1 by 1 scalar will be the y output if you were to multiply the transpose of 
 
 When a layer has two neurons then there are going to be two vectors which represent the weights. In this situation the order does matter since if you were to switch up the order of the input vector and the weights the resulting y output can be a different shape. I have included a screenshot below where I go through some example values of a neural network layer with two neurons.
 
-<img src="https://github.com/hsarfraz/linear-algebra-for-machine-learning/blob/main/week%202/discussion_post2.jpg" width="700" height="700">
+<img src="https://github.com/hsarfraz/linear-algebra-for-machine-learning/blob/main/week%202/discussion_post2.jpg" width="350" height="500">
 
 <ins> Response to comments </ins>
 
