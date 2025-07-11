@@ -17,7 +17,7 @@ Dot Product
 
 The Determinant
 * When the derterminant of a matrix is zero that means the matrix does not have a inverse
-* When the determinant of the coefficient matrix is zero, it means that the system of linear equations may not have a unique solution, because the equations are not linearly independent. This could mean:
+* When the determinant of the coefficient matrix is zero, it means that the system of linear equations does not have a unique solution, because the equations are not linearly independent. In this case, the system of linear equations could have:
     * Infinitely many solutions (if the system is consistent), or
     * No solution at all (if the system is inconsistent)
 
