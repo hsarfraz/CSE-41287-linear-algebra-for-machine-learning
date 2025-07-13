@@ -11,3 +11,5 @@
 * Defining a matrix (2D array), vector (1D or 2D array), and scalar (single number)
 * Dot Product
 * The Determinant ([Illustration of deteminant](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8))
+
+## week 3 Key take aways
