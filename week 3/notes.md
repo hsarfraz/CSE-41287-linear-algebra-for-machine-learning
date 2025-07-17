@@ -10,8 +10,9 @@ In this situation I believe you would need to find the Moore-Penrose Pseudo inve
 
 As mentioned in lecture 4:
 
-underdetermined system = wide matrix (more columns than rows which means n>m)
-overdetermined system = tall matrix (more rows than columns which means n<m)
+* underdetermined system = wide matrix (more columns than rows which means n>m)
+* overdetermined system = tall matrix (more rows than columns which means n<m)
+
 For a example of a under-determined system, I believe the system of linear equations example shared in lecture 2 is a perfect example. 
 
 <ins> Response to Comments </ins>
