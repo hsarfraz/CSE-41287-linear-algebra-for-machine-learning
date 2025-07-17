@@ -22,3 +22,10 @@ For a example of a under-determined system, I believe the system of linear equat
 I really liked how you brought up the point of linear regression techniques and how they can be used to find the least-squared error between the actual and predicted points. When I was writing my response I didn't think about how regression can be used to minimize the squared error.
 
 I do wonder if it would be correct to say that the Moore-Penrose Pseudo inverse of non-square matrices are used when solving for linear regressions of a system.
+
+> If there isn't a consistent set of linear equations (as is common with noisy data or overdetermined systems), we cannot find an exact solution. Instead, we aim to find a best approximate solution—specifically, the **least squares solution**, which minimizes the sum of squared errors: $ \|Ax - b\|^2$
+
+>From the lectures, I learned that using the **Moore-Penrose Pseudoinverse** ($A^+$) is a powerful and general method to obtain this optimal solution. It works for every matrix regardless of its shape or rank, allowing us to effectively find a solution even when the traditional inverse ($A^{-1}$) does not exist.
+
+>While a pseudoinverse cannot transform a reduced-rank matrix into an identity matrix, it produces a matrix that is *"close"* to it in effect—returning a solution that best approximates the behavior of a true inverse.
+
