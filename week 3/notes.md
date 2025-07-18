@@ -1,3 +1,20 @@
+# Week 3 Terms
+
+* Gauss Jordan Elimination
+* Using elementary row operations (ERO) in Gauss Jordan Elimination
+* Augmented matrix
+* Pivots
+* Under determined Matrix System of Linear Equations
+* Over determined Matrix System of Linear Equations
+* Dependent Variables
+* Free Variables
+* Homogeneous system of linear equations
+* Non-homogeneous system of linear equations
+* Rank of a matrix after Gauss Jordan Elimination
+* Trivial solutions of a system of linear equations
+* Non-trivial solutions of a system of linear equations
+* Moore Penrose Pseudo Inverse
+
 # Week 3 Discussion
 
 > Neural Network demo is about modeling neural networks by solving system of linear equations. We consider first the scenario in which the input data features and output measurements produce a square system. If the input data/features and the output measurements are inconsistent, there is no set of weights that perfectly fits the data. In practical scenarios we have many data points, (often more than model parameters), and affected by noise they do not form a consistent set of linear equations. What method can we use in these scenarios?
