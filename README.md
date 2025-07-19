@@ -12,4 +12,20 @@
 * Dot Product
 * The Determinant ([Illustration of deteminant](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&index=8))
 
-## week 3 Key take aways
+## week 3 Key take aways ([link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/blob/main/week%203/notes.md))
+* Gauss Jordan Elimination
+* Using elementary row operations (ERO) in Gauss Jordan Elimination
+* Augmented matrix
+* Pivots
+* Under determined Matrix System of Linear Equations
+* Over determined Matrix System of Linear Equations
+* Dependent Variables
+* Free Variables
+* Homogeneous system of linear equations
+* Non-homogeneous system of linear equations
+* Rank of a matrix after Gauss Jordan Elimination
+* Trivial solutions of a system of linear equations
+* Non-trivial solutions of a system of linear equations
+* Moore Penrose Pseudo Inverse
+
+## week 4 Key take aways ()
