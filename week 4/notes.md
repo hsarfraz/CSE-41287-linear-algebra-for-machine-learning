@@ -3,6 +3,7 @@
 * Basis vectors
 * Linear Combination of Vectors
 * Span of vectors
+* Linearly Independent and Dependent vectors
 
 # Discussion
 
