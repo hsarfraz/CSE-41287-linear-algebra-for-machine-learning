@@ -6,7 +6,10 @@
 * Linearly Independent and Dependent vectors
 
 # Discussion
-* Pivot columns
+* **Pivot columns**: A pivot is defined as
+    * A row with a leading one
+    * That one is the first non-zero entry in the row (reading from left to right)
+    * It is used to eliminate entries above of below it (has zeros above and below it)
 * **Subspace**: A subset of a vector space.
      * A proper subset has fewer elements than the vector space.
      * A improper subset has exactly the same elements as the vector space.
