@@ -13,7 +13,7 @@
 * **Subspace**: A subset of a vector space.
      * A proper subset has fewer elements than the vector space.
      * A improper subset has exactly the same elements as the vector space.
-* Span
+* **Span**: The set of all vectors you can create using those vectors through linear combinations
 * Additbity & Homogeneity
 * Dilation (scaling)
 * **L2 Norm (aka the Euclidean norm)**: The length or distance from the orgin
