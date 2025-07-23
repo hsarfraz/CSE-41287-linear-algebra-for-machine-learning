@@ -14,7 +14,7 @@
      * A proper subset has fewer elements than the vector space.
      * A improper subset has exactly the same elements as the vector space.
 * **Span**: The set of all vectors you can create using those vectors through linear combinations
-* Additbity & Homogeneity
+* Additvity & Homogeneity
 * Dilation (scaling)
 * **L2 Norm (aka the Euclidean norm)**: The length or distance from the orgin
 * **Null Space**: When you multiply a matrix by a vector and the output is a zero vector
