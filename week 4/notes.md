@@ -24,4 +24,3 @@
     * spans the space
     * is linearly independent
     * has exactly n elements where n is the dimension of the spaces
- 
