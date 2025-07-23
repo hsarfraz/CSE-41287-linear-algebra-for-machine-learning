@@ -7,7 +7,9 @@
 
 # Discussion
 * Pivot columns
-* **Subspace**: A subset of a vector space. A proper subset has fewer elements than the vector space. A improper subset has exactly the same elements as the vector space.
+* **Subspace**: A subset of a vector space.
+      * A proper subset has fewer elements than the vector space.
+      * A improper subset has exactly the same elements as the vector space.
 * Span
 * Additbity & Homogeneity
 * Dilation (scaling)
