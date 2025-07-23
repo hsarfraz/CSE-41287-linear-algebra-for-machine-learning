@@ -28,4 +28,14 @@
 * Non-trivial solutions of a system of linear equations
 * Moore Penrose Pseudo Inverse
 
-## week 4 Key take aways ()
+## week 4 Key take aways ([link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/blob/main/week%204/notes.md))
+* Pivot columns
+* Subspace
+* Span
+* Additvity & Homogeneity
+* Dilation (scaling)
+* L2 Norm (aka the Euclidean norm)
+* Null Space
+* Contradiction or no contradictions in a matrix in reduced row echelon form (RREF)
+* Orthogonal vectors
+* Basis of a vector space
