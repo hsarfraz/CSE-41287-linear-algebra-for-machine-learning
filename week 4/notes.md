@@ -28,8 +28,6 @@
 # Discussion
 > Concepts of vector space and basis are important to understand this week.  The important goal in ML is to discover the best basis set to describe the input dataset and to solve ML problem. Let's discuss: When a vector can be a basis for a vector subspace?
 
-## Vector Subspaces and Basis
-
 Based on the lecture and quiz, there are three requirements that must be satisfied for a vector to be a basis for a vector subspace:
 
 1. **Spans the space**  
