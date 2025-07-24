@@ -53,3 +53,7 @@ There are no vectors in the set (i.e., the basis set) that can be written as a l
 
 It means that the basis vectors can be used to construct every vector in that space via linear combinations. So basically, the vectors in the basis form an **independent set** of vectors that can be used to create a system of linear equations with a unique solution (independent system of linear equations) for any vector in the space.
 
+# Comments
+> A vector is within the span of a matrix if a set of weights can be found that satisfy the linear equation Aw = Y.  If set of weights w can be found from w = A-1 * Y, then Y spans the vector subspace represented by A.
+
+I really like what you mentioned here. That for the equation Aw=Y, the Y output is actually in the span of the columns in matrix A since Y is technically a linear combination of matrix A's columns. w (the weight) is not in the same sub space as the vectors that span A and Y. It only transforms A to Y.
