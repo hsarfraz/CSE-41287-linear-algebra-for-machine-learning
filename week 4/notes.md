@@ -37,37 +37,21 @@ Based on the lecture and quiz, there are three requirements that must be satisfi
 3. **Has exactly _n_ elements**, where _n_ is the dimension of the finite-dimensional space ℝⁿ  
    (for example, in the quiz, set **S** was a subset of **V**, a 5-dimensional vector space or ℝ⁵, which means that **S** must have 5 elements)
 
----
+Now here are some concepts that I clarified when solving for question 5 in the quiz:
 
-### Concepts Clarified (from solving question 5 in the quiz)
-
----
-
-### 🔹 Subspace
+<ins> Subspace </ins>
 
 The problem stated how "**S is a subset of V**". I was initially confused because I assumed that if **S** is a subset of **V**, it must have fewer than 5 elements.
 
 However, after further research, I realized that there are **two types of subsets**:
+* **Proper Subset**: Has fewer elements than the vector space. _Notation_: `A ⊂ B`
+* **Improper Subset**: Has exactly the same elements as the vector space. _Notation_: `A = B`
 
-- **Proper Subset**: Has fewer elements than the vector space.  
-  _Notation_: `A ⊂ B`
+<ins> What does it mean for the vectors in the set to be linearly independent? </ins>
 
-- **Improper Subset**: Has exactly the same elements as the vector space.  
-  _Notation_: `A = B`
+There are no vectors in the set (i.e., the basis set) that can be written as a linear combination of the others. So none of the vectors in the set are linearly dependent on one another.
 
----
+<ins> What does it mean for basis vectors to span a vector space? </ins>
 
-### 🔹 What does it mean for the vectors in the set to be linearly independent?
+It means that the basis vectors can be used to construct every vector in that space via linear combinations. So basically, the vectors in the basis form an **independent set** of vectors that can be used to create a system of linear equations with a unique solution (independent system of linear equations) for any vector in the space.
 
-There are no vectors in the set (i.e., the basis set) that can be written as a linear combination of the others.  
-So **none of the vectors in the set are linearly dependent** on one another.
-
----
-
-### 🔹 What does it mean for basis vectors to span a vector space?
-
-It means that the basis vectors can be used to **construct every vector in that space via linear combinations**.
-
-So basically, the vectors in the basis form an **independent set** of vectors that can be used to create a **system of linear equations with a unique solution** for any vector in the space.
-
----
