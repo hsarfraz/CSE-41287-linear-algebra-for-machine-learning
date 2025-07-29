@@ -39,3 +39,13 @@
 * Contradiction or no contradictions in a matrix in reduced row echelon form (RREF)
 * Orthogonal vectors
 * Basis of a vector space
+
+## week 5 key take aways ([link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/blob/main/week%205/notes.md))
+* scalars
+* eigenvectors
+* eigenvalues
+* matrix transformations (matrix stretch/compress the eigenvectors by different amounts)
+* system of linear equations vs. eigenvectors
+* ordered basis
+* diagonalizable square matrix
+* orthogonal vectors
