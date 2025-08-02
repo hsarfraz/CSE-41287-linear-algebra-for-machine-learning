@@ -2,6 +2,8 @@
 
 * SVD helps reduces the dimensions of data that has many dimensions
 * Fourier transform (FFT)
+* Principle Component Analysis (PCA)
+* Correlation
 
 # terms used in quiz
 
