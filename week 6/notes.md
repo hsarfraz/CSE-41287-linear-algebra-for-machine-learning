@@ -32,3 +32,9 @@ All their eigenvalues will be real numbers (not complex numbers)
 Their eigenvectors are always orthogonal or can be made orthogonal. Orthogonal eigenvectors of a matrix are eigenvectors that happen to be orthogonal to each other (in other words, the eigenvectors are at a 90 degrees angle to each other)
 They are always diagonalizable 
 . Q is the matrix of orthogonal vectors.
+
+<ins>**What are singular values? How are they related with eigenvalues?**</ins>
+
+<ins>**Purpose of a symmetric matrix and singular values**</ins>
+
+
