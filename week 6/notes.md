@@ -19,7 +19,16 @@ If matrix A is symmetric then:
 
 If matrix A is not symmetric then:
 * the eigenvalues of A are not equal to the singular values of A
-* When you compute $A^T*A$ or $A*A^T$ (which produces a symmetric matrix) then the singular values of A are the square root of the eigenvalues ($\sigma_i = \sqrt{\lambda_i}$
-) of  
- or 
-.
+* When you compute $A^T*A$ or $A*A^T$ (which produces a symmetric matrix) then the singular values of A are the square root of the eigenvalues ($\sigma_i = \sqrt{\lambda_i}$) of $A^T*A$ or $A*A^T$
+
+<ins>**What is a symmetric matrix?**<\ins>
+
+A symmetric matrix is one that is equal to its transpose (
+)
+
+Here are some properties of a symmetric matrix:
+
+All their eigenvalues will be real numbers (not complex numbers)
+Their eigenvectors are always orthogonal or can be made orthogonal. Orthogonal eigenvectors of a matrix are eigenvectors that happen to be orthogonal to each other (in other words, the eigenvectors are at a 90 degrees angle to each other)
+They are always diagonalizable 
+. Q is the matrix of orthogonal vectors.
