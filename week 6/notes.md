@@ -35,6 +35,12 @@ They are always diagonalizable
 
 <ins>**What are singular values? How are they related with eigenvalues?**</ins>
 
+Singular values are the diagonal entries of the matrix $\Sigma$ in the SVD formula. They are the square root of the eigenvalues in the matrix $A^T*A$ or $A*A^T$ (note, this is only applicable when A is a non-symmetric matirx)
+
+Remember, eigenvalues tell us how a matrix can transform (stretch or shrink) its own eigenvectors without changing the direction of the eigenvector. Eigenvalues can only exist with square matrices.
+
+On the other hand, singular values tell you how much the matrix stretches space along orthogonal directions, even if the matrix does not rotate or distort vectors. Unlike eigenvalues, singular values always exist. 
+
 <ins>**Purpose of a symmetric matrix and singular values**</ins>
 
 
