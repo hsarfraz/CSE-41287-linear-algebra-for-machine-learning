@@ -23,15 +23,13 @@ If matrix A is not symmetric then:
 
 <ins>**What is a symmetric matrix?**</ins>
 
-A symmetric matrix is one that is equal to its transpose (
-)
+A symmetric matrix is one that is equal to its transpose ( $A=A^T$ )
 
 Here are some properties of a symmetric matrix:
 
-All their eigenvalues will be real numbers (not complex numbers)
-Their eigenvectors are always orthogonal or can be made orthogonal. Orthogonal eigenvectors of a matrix are eigenvectors that happen to be orthogonal to each other (in other words, the eigenvectors are at a 90 degrees angle to each other)
-They are always diagonalizable 
-. Q is the matrix of orthogonal vectors.
+1. All their eigenvalues will be real numbers (not complex numbers)
+2. Their eigenvectors are always orthogonal or can be made orthogonal. Orthogonal eigenvectors of a matrix are eigenvectors that happen to be orthogonal to each other (in other words, the eigenvectors are at a 90 degrees angle to each other)
+3. They are always diagonalizable ($A = Q \Lambda Q^T$). Q is the matrix of orthogonal vectors.
 
 <ins>**What are singular values? How are they related with eigenvalues?**</ins>
 
