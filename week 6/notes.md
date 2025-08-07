@@ -41,4 +41,13 @@ On the other hand, singular values tell you how much the matrix stretches space 
 
 <ins>**Purpose of a symmetric matrix and singular values**</ins>
 
+Symmetric matrices and singular values are used in singular value decompositions (SVD)
+
+$$
+A = U \Sigma V^T 
+$$
+
+* $U =$ left singular vectors (from $A A^T$. This matrix gives eigenvectors which form $U$)
+* $\Sigma =$ diagonal matrix of singular values
+* $V =$ right singular vectors (from $A^T A$. This matrix gives eigenvectors which form $V$)
 
