@@ -49,3 +49,7 @@
 * ordered basis
 * diagonalizable square matrix
 * orthogonal vectors
+* orthonormal set of vectors
+
+## week 6 key take aways ([link]())
+* 
