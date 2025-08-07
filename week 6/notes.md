@@ -21,7 +21,7 @@ If matrix A is not symmetric then:
 * the eigenvalues of A are not equal to the singular values of A
 * When you compute $A^T*A$ or $A*A^T$ (which produces a symmetric matrix) then the singular values of A are the square root of the eigenvalues ($\sigma_i = \sqrt{\lambda_i}$) of $A^T*A$ or $A*A^T$
 
-<ins>**What is a symmetric matrix?**<\ins>
+<ins>**What is a symmetric matrix?**</ins>
 
 A symmetric matrix is one that is equal to its transpose (
 )
