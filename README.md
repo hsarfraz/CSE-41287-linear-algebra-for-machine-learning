@@ -51,5 +51,5 @@
 * orthogonal vectors
 * orthonormal set of vectors
 
-## week 6 key take aways ([link]())
+## week 6 key take aways ([link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/tree/main/week%206))
 * 
