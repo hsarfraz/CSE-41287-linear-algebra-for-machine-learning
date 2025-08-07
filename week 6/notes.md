@@ -51,3 +51,6 @@ $$
 * $\Sigma =$ diagonal matrix of singular values
 * $V =$ right singular vectors (from $A^T A$. This matrix gives eigenvectors which form $V$)
 
+> Is it more accurate to say that for a symmetric matrix, the absolute values of the eigenvalues and the singular values are always the same?
+
+This is a valid question that you have raised which is something that I forgot to mention in my reply. There are situations when eigenvectors for a symmetric matrix can be negative so in these situations the absolute value of these negative eigenvectors would be equal to the singular values since singular values are always positive.
