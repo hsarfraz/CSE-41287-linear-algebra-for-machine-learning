@@ -54,3 +54,13 @@ $$
 > Is it more accurate to say that for a symmetric matrix, the absolute values of the eigenvalues and the singular values are always the same?
 
 This is a valid question that you have raised which is something that I forgot to mention in my reply. There are situations when eigenvectors for a symmetric matrix can be negative so in these situations the absolute value of these negative eigenvectors would be equal to the singular values since singular values are always positive.
+
+> Question 2: How is MP pseudoinverse matrix computed by using SVD?  What were the key points in the algorithm?
+
+The pseudoinverse of $A = U \Sigma V^T$ is $A^+ = V \Sigma^+ U^T$
+* $\Sigma^+$ is a matrix which contains the reciprocal of each non-zero singular value in $\Sigma$ and transposing the matrix.
+
+
+<ins>**Is the Moore-Penrose (MP) pseudoinverse only being used when the determinant of the matrix $\Sigma$ equals zero?**</ins>
+
+Yes, this question assumes that the determinant of the matrix $\Sigma$ equals zero since the inverse can't be taken of a matrix whoms determinant equals zero
