@@ -52,4 +52,12 @@
 * orthonormal set of vectors
 
 ## week 6 key take aways ([link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/tree/main/week%206))
-* 
+* SVD helps reduces the dimensions of data that has many dimensions
+* Fourier transform (FFT)
+* Principle Component Analysis (PCA)
+* Correlation
+* symmetric matrix
+* eigenvalues
+* eigenvectors
+* diagonaalizable
+* singular values and their relation with eigenvalues
