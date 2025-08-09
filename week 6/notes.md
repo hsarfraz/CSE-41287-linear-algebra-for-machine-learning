@@ -5,7 +5,13 @@
 * Principle Component Analysis (PCA)
 * Correlation
 
-# terms used in quiz
+# terms used in discussion
+
+* symmetric matrix
+* eigenvalues
+* eigenvectors
+* diagonaalizable
+* singular values and their relation with eigenvalues
 
 # discussion board prompt
 
