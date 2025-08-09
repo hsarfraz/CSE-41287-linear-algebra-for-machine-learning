@@ -61,3 +61,11 @@
 * eigenvectors
 * diagonaalizable
 * singular values and their relation with eigenvalues
+
+## week 7 key take aways ([link]())
+
+## week 8 key take aways ([link]())
+
+## week 9 key take aways ([link]())
+
+## week 10 key take aways ([link]())
