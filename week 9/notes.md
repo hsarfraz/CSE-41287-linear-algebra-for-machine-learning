@@ -1,1 +1,3 @@
+> Please read the document on "Fuel efficiency example run" and run the regression demo, (the link is in the TF document README file), in Google Colab or your local TF2 installation, then send to this thread your plot on the Prediction Error, (MPG Error)
 
+Most errors are clustered around zero which means that the regression model was accurate. There are some outliers in the miles per gallon (MPG) predictions which indicate that some of the predictions were inaccurate. But most of the predictions made by the model were only +3 or -3 away from their actual value. The fact that there are many data points clustered around zero indicates that the regression ML model produces a low MSE
