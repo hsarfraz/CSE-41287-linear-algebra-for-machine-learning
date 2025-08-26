@@ -1,3 +1,5 @@
+CSE-41287: Linear Algebra for Machine Learning (a part of the UC San Diego Machine Learning Methods Program offered by the extension school)
+
 # linear-algebra-for-machine-learning
 
 ## week 1 Key take aways ([link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/blob/main/week%201/week%201%20lecture%20notes.md))
