@@ -13,6 +13,10 @@
 * diagonaalizable
 * singular values and their relation with eigenvalues
 
+# SVD video explanation [link](https://www.youtube.com/watch?v=vSczTbgc8Rc)
+
+
+
 # discussion board prompt
 
 > For many SVD is the most important matrix decomposition in linear algebra, because it reveals the detailed inner information about the matrix. You have learned that for a symmetric matrix the singular values and the eigenvalues are the same. How about the singular vectors and the eigenvectors ?
