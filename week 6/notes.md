@@ -15,7 +15,7 @@
 
 # SVD video explanation [link](https://www.youtube.com/watch?v=vSczTbgc8Rc)
 
-
+In general, SVD is saying that any matrix, regardless of symmetry, rank, and shape, can be decomposed into three special matrices.
 
 # discussion board prompt
 
