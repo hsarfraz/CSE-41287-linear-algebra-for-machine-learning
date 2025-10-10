@@ -29,11 +29,11 @@ $$
 
 I have created a chart which highlights the points of the features of $U$, $\Sigma$, and $V^T$
 
-| Variable  | Point 1 | Point 1 |
-| ------------- | ------------- | ------------- |
-| $U$  | A **orthogonal matrix** which rotates the standard basis to align with the left singular vectors  | $U$ contains the left singular vectors of matrix A which is arranged in decending order |
-| $\Sigma$  | A rectangullarly **diagonal matrix** which has the same dimensions as $A$  | $\Sigma$ is also known as a square diagonal matrix which is composed of a dimension eraser (or adder) |
-| $V^T$  | A **orthogonal matrix** which rotates the right singular vectors to the standard basis  | $V^T$ contains the normalised right singular vectors of matrix A, arranged in decending order | 
+| Variable  | Point 1 | Point 2 | Point 3 |
+| ------------- | ------------- | ------------- | ------------- |
+| $U$  | A **orthogonal matrix** which rotates the standard basis to align with the left singular vectors  | $U$ contains the left singular vectors of matrix A which is arranged in decending order | NA |
+| $\Sigma$  | A rectangullarly **diagonal matrix** which has the same dimensions as $A$  | $\Sigma$ is also known as a square diagonal matrix which is composed of a dimension eraser (or adder) | The numbers on the diagonal for $\Sigma$ are the singular values $\sigma$ of matrix A, arranged in decending order. The singular values are the square root of the common eigenvalues from the left and right singular vectors |
+| $V^T$  | A **orthogonal matrix** which rotates the right singular vectors to the standard basis  | $V^T$ contains the normalised right singular vectors of matrix A, arranged in decending order | NA |
 
 Additional Notes
 
