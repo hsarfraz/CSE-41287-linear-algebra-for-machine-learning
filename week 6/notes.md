@@ -1,18 +1,3 @@
-# Singular Value Decomposition (SVD) [link to video](https://www.youtube.com/watch?v=gXbThCXjZFM)
-
-* SVD helps reduces the dimensions of data that has many dimensions
-* Fourier transform (FFT)
-* Principle Component Analysis (PCA)
-* Correlation
-
-# terms used in discussion
-
-* symmetric matrix
-* eigenvalues
-* eigenvectors
-* diagonaalizable
-* singular values and their relation with eigenvalues
-
 # SVD video explanation [link](https://www.youtube.com/watch?v=vSczTbgc8Rc)
 
 In general, SVD is saying that any matrix, regardless of symmetry, rank, and shape, can be decomposed into three special matrices.
@@ -31,8 +16,23 @@ It is imporant to note that a 2 by 3 matrix would be considered a dimension eras
 [0,0]
 
 $$
-\sigma + /sigma
+\sigma + \Sigma
 $$
+
+# Singular Value Decomposition (SVD) [link to video](https://www.youtube.com/watch?v=gXbThCXjZFM)
+
+* SVD helps reduces the dimensions of data that has many dimensions
+* Fourier transform (FFT)
+* Principle Component Analysis (PCA)
+* Correlation
+
+# terms used in discussion
+
+* symmetric matrix
+* eigenvalues
+* eigenvectors
+* diagonaalizable
+* singular values and their relation with eigenvalues
 
 # discussion board prompt
 
