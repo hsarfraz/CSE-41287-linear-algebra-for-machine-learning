@@ -16,7 +16,7 @@ It is imporant to note that a 2 by 3 matrix would be considered a dimension eras
 [0,0]
 
 $$
-\sigma + \Sigma
+A = U * \Sigma * V^T
 $$
 
 # Singular Value Decomposition (SVD) [link to video](https://www.youtube.com/watch?v=gXbThCXjZFM)
