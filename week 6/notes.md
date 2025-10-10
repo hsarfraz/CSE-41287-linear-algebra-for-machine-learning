@@ -17,6 +17,23 @@
 
 In general, SVD is saying that any matrix, regardless of symmetry, rank, and shape, can be decomposed into three special matrices.
 
+It is imporant to note that a 2 by 3 matrix would be considered a dimension eraser (it reduces the dimension) while a 3 by 2 matrix would be considered a dimension adder (it adds a dimension)
+
+<ins> 2 by 3 matrix (dimension eraser) </ins>
+
+[1,0,0]
+[0,1,0]
+
+<ins> 3 by 2 matrix (dimension adder) </ins>
+
+[1,0]
+[0,1]
+[0,0]
+
+$$
+\sigma + /sigma
+$$
+
 # discussion board prompt
 
 > For many SVD is the most important matrix decomposition in linear algebra, because it reveals the detailed inner information about the matrix. You have learned that for a symmetric matrix the singular values and the eigenvalues are the same. How about the singular vectors and the eigenvectors ?
