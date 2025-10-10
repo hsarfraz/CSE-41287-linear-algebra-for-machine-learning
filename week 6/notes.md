@@ -24,7 +24,9 @@ $$
 * $U$: Matrix U has the left singular vectors of Matrix A and **rotates** the standard basis to align with the left sigular vectors
 * $\Sigma$: Sigma is the dimension eraser (or adder) and **stretches** the matrix based on the singular values ($\sigma$)
 * $V^T$: Matrix V^T has the right singular vectors of Matrix A and **rotates** the right singular vectors so they can go back to the standard base. Matrix V^T is the transpose of the right singular vectors.
-* ---
+
+---
+
 * Both, $U$ and $V^T$ are orthogonal matrices
 * $\Sigma$ is a rectangullarly diagonal matrix
 
