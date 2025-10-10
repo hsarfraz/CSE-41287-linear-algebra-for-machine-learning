@@ -45,7 +45,7 @@ Additional Notes
 
 Here are some notes which expand on the Matrix A, the left and right singular matrices and their vectors, and the singular values.
 
-* The matrix A has dimensions of $A_(m*n)$
+* The matrix A has dimensions of $A_mxn$
 
 
 # Singular Value Decomposition (SVD) [link to video](https://www.youtube.com/watch?v=gXbThCXjZFM)
