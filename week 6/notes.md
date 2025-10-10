@@ -52,7 +52,7 @@ Here are some notes which expand on the Matrix A, the left and right singular ma
 * The right singular matrix ($V$) is formed by:
   * The eigenvectors of $A^T * A$.
   * $A^T * A$ produces a symmetric matrix and has the dimensions $n*n$
-* The eigenvalues of $A * A^T$ equal the eigenvalues from $A^T * A$ and the square root of these eigenvalues are the singular values $sqrt{\lambda_1} = \sigma_1$
+* The eigenvalues of $A * A^T$ equal the eigenvalues from $A^T * A$ and the square root of these eigenvalues are the singular values $\sqrt{\lambda_1} = \sigma_1$
 
 
 # Singular Value Decomposition (SVD) [link to video](https://www.youtube.com/watch?v=gXbThCXjZFM)
