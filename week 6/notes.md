@@ -24,6 +24,7 @@ $$
 * $U$: Matrix U has the left singular vectors of Matrix A and **rotates** the standard basis to align with the left sigular vectors
 * $\Sigma$: Sigma is the dimension eraser (or adder) and **stretches** the matrix based on the singular values ($\sigma$)
 * $V^T$: Matrix V^T has the right singular vectors of Matrix A and **rotates** the right singular vectors so they can go back to the standard base. Matrix V^T is the transpose of the right singular vectors.
+* Matrix $A$ and $\Sigma$ have the same dimensions
 
 ---
 
@@ -39,7 +40,7 @@ Additional Notes
 
 * orthogonal matrices **rotate** the matrix
 * diagonal matices **stretch** the matrix
-* Matrix $A$ and $\Sigma$ have the same dimensions
+
 
 # Singular Value Decomposition (SVD) [link to video](https://www.youtube.com/watch?v=gXbThCXjZFM)
 
