@@ -46,6 +46,8 @@ Additional Notes
 Here are some notes which expand on the Matrix A, the left and right singular matrices and their vectors, and the singular values.
 
 * The matrix A has dimensions of $A_{m*n}$
+* The left singular matrix is: $S_L = A*A^T$. $A*A^T$ produces a symmetric matrix and has the dimensions $m*m$
+* The right singular matrix is: $S_R = A^T * A$. $A^T * A$ produces a symmetric matrix and has the dimensions $n*n$
 
 
 # Singular Value Decomposition (SVD) [link to video](https://www.youtube.com/watch?v=gXbThCXjZFM)
