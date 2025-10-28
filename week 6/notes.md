@@ -7,12 +7,15 @@ It is imporant to note that a 2 by 3 matrix would be considered a dimension eras
 <ins> 2 by 3 matrix (dimension eraser) </ins>
 
 [1,0,0]
+
 [0,1,0]
 
 <ins> 3 by 2 matrix (dimension adder) </ins>
 
 [1,0]
+
 [0,1]
+
 [0,0]
 
 <ins> SVD Equation </ins>
