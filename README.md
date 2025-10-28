@@ -10,6 +10,8 @@ Here is a list of the different Machine Learning algorithms (please note that th
 
 **Lightblue highlight** = Machine Learning algorithms that are mainly used in the group that they are assigned to, but can be used in the other category (supervised or unsupervised)
 
+<img src="images/supervised_learning.jpg" width="700">
+
 
 ## week 1 Key take aways ([link](https://github.com/hsarfraz/linear-algebra-for-machine-learning/blob/main/week%201/week%201%20lecture%20notes.md))
 * dicriminative vs. generative AI
