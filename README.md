@@ -79,11 +79,11 @@ Here is a list of the different Machine Learning algorithms (please note that th
 
 ## week 7 key take aways ([link]())
 
-* PCA (principal component analysis) and it's connection with SVD (singular vector decomposition)
+* PCA (principal component analysis) and it's connection with SVD (singular vector decomposition). Using PCA on images
 
 ## week 8 key take aways ([link]())
 
-* PCA applied on a images dataset and looking at how MSE is reduced
+* Looking at gradient decent and the normal line method to see which one is more effective is prodicting house prices. The efficiency of both methods is examined through the MSE (mean squared error)
 
 ## week 9 key take aways ([link]())
 
