@@ -1,4 +1,4 @@
-<ins> What is Principal Component Analysis (PCA) </ins>
+<ins> What is Principal Component Analysis (PCA) [link](https://www.youtube.com/watch?v=ne6vnKoTHwk&t=61s) </ins>
 
 A mathematical technique for finding patterns in heavy data and reducing its dimensionality while keeping as much important information as possible (for example in images)
 
