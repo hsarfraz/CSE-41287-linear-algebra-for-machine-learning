@@ -88,5 +88,3 @@ Here is a list of the different Machine Learning algorithms (please note that th
 ## week 9 key take aways ([link]())
 
 * covering linear regression on the MPG dataset and seeing how MSE (mean squared error) is reduced 
-
-## week 10 key take aways ([link]())
