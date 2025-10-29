@@ -93,4 +93,8 @@ The main key take away is that for **small or simple regression problems**, both
 
 ## week 9 key take aways ([link]())
 
+This week I created a bar chart that shows the squared error for each data point, which represents how far each prediction is from the true value. 
+
+Points with smaller squared errors (close to zero) indicate that the model predicted those data points accurately. The Mean Squared Error (MSE) summarizes this overall by taking the average of all squared errors — so a lower overall MSE means the model performs better on average.
+
 * covering linear regression on the MPG dataset and seeing how MSE (mean squared error) is reduced 
