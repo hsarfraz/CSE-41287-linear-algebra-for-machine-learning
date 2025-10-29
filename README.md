@@ -79,8 +79,14 @@ Here is a list of the different Machine Learning algorithms (please note that th
 
 ## week 7 key take aways ([link]())
 
+* PCA (principal component analysis) and it's connection with SVD (singular vector decomposition)
+
 ## week 8 key take aways ([link]())
 
+* PCA applied on a images dataset and looking at how MSE is reduced
+
 ## week 9 key take aways ([link]())
+
+* covering linear regression on the MPG dataset and seeing how MSE (mean squared error) is reduced 
 
 ## week 10 key take aways ([link]())
