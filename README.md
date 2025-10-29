@@ -81,6 +81,10 @@ Here is a list of the different Machine Learning algorithms (please note that th
 
 * PCA (principal component analysis) and it's connection with SVD (singular vector decomposition). Using PCA on images
 
+The key take away here is that Principal Component Analysis (PCA) is a dimensionality reduction technique that helps simplify data, such as images, by keeping only the most important information. Since images contain a large amount of data, PCA focuses on the directions (called principal components) that capture the most variance in the image.
+
+Mathematically, PCA uses Singular Value Decomposition (SVD) to break the image matrix into simpler components. From this decomposition, the eigenvectors with the largest eigenvalues (also called the principal components) are selected, because they represent the directions that contain the most significant features of the image.
+
 ## week 8 key take aways ([link]())
 
 * Looking at gradient decent and the normal line method to see which one is more effective is prodicting house prices. The efficiency of both methods is examined through the MSE (mean squared error)
