@@ -89,6 +89,8 @@ Mathematically, PCA uses Singular Value Decomposition (SVD) to break the image m
 
 * Looking at gradient decent and the normal line method to see which one is more effective is prodicting house prices. The efficiency of both methods is examined through the MSE (mean squared error)
 
+The main key take away is that for **small or simple regression problems**, both gradient descent and the normal equation give the same prediction results. However, for **large or complex datasets**, gradient descent is preferred because it scales better computationally.
+
 ## week 9 key take aways ([link]())
 
 * covering linear regression on the MPG dataset and seeing how MSE (mean squared error) is reduced 
